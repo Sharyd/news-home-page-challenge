@@ -32,5 +32,5 @@ export const theme = createTheme({
         veryDarkBlue: {
             main: 'hsl(240, 100%, 5%)',
         },
-    },
+    } as any,
 })
